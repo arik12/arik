@@ -18,18 +18,3 @@
 <br/>
 <br/>
 
-[**All Blog Posts**](https://k9n.dev/blog)
-
-
-## Contact me :speech_balloon:
-
-Get in touch wit me!
-
-
-:e-mail: <a href="mailto:mail@k9n.dev">Send an e-mail</a>
-
-:globe_with_meridians: <a href="https://k9n.dev">Checkout my website</a>
-
-:memo: <a href="https://k9n.dev/blog">Checkout my blog</a>
-
-

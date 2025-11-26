@@ -25,9 +25,6 @@
 
 Get in touch wit me!
 
-:speech_balloon: <a href="https://techhub.social/@k9n">Connect with me on Mastodon</a>
-
-:bird: <a href="https://twitter.com/d_koppenhagen">Chat with me on Twitter</a>
 
 :e-mail: <a href="mailto:mail@k9n.dev">Send an e-mail</a>
 

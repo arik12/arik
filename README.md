@@ -39,7 +39,10 @@ Want to add your own project to this list? Follow these steps:
 
 ---
 
-✨ *Thanks for visiting! Feel free to connect or contribute anytime.*
+<p align="center">
+✨ <i>Thanks for visiting! Feel free to connect or contribute anytime.</i> ✨
+</p>
+
 
 
 
